@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cstddef": "cpp"
+    },
+    "python.pythonPath": "/usr/local/bin/python3"
+}
